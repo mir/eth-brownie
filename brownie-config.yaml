@@ -1,0 +1,3 @@
+dotenv: rinkeby.env
+wallets:
+  from_key: ${PRIVATE_KEY}
